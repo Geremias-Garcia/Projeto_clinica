@@ -14,6 +14,7 @@ import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;
+import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
 
 public class TelaLoginMedico {
@@ -22,7 +23,7 @@ public class TelaLoginMedico {
     private TextField tfCpf;
     
     @FXML
-    private TextField tfSenha;  
+    private PasswordField tfSenha;  
 
     private RepositorioLogin repositorioLogin;
     private RepositorioPaciente repositorioPessoa;
