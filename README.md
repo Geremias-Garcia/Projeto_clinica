@@ -1,3 +1,18 @@
-Modelo de software baseado em um sistema de clinica de atendimento médico.
+Projeto: Sistema de Gestão de Clínica
 
-Rascunho inicial do projeto que será aprimorado para o TCC.
+Tecnologias:
+- Java
+- SQL
+- Git
+
+Funcionalidades:
+- Cadastro de pacientes
+- Cadastro de médicos
+- Gerenciamento de consultas
+- Persistência de dados
+
+Objetivo:
+Projeto desenvolvido para praticar programação orientada a objetos e estrutura de sistemas backend em Java.
+
+Autor:
+Geremias Garcia
